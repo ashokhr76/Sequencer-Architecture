@@ -1,5 +1,5 @@
 # Sequencer Architecture – Aeron Cluster POC (Single Node)
-This project is a **Java-based proof-of-concept** for building a **replicated state machine** using [Aeron Cluster](https://github.com/aeron-io/aeron). 
+This project is a **Java-based proof-of-concept** for building a **replicated state machine** using. 
 It models a simplified post-trade processing pipeline with deterministic state transitions across multiple nodes.
 
 ## What It Demonstrates
