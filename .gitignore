@@ -1,0 +1,19 @@
+# .gitignore
+# IDEs
+.idea/
+*.iml
+*.classpath
+*.project
+*.settings/
+
+# Build
+target/
+out/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
